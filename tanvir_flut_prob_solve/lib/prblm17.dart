@@ -33,7 +33,7 @@ class _MyAppState extends State<MyApp> {
     );
   }
 }
-
+//Dark Mode 
 class SettingsScreen extends StatelessWidget {
   final bool isDarkMode;
   final ValueChanged<bool> onToggle;

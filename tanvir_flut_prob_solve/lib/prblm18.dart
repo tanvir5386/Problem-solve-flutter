@@ -65,7 +65,7 @@ class _ProfilePageState extends State<ProfilePage> {
             ),
             const SizedBox(height: 20),
             ElevatedButton.icon(
-              onPressed: _pickImage,
+              onPressed: _pickImage,  //Pick image here
               icon: const Icon(Icons.image),
               label: const Text('Choose Image'),
               style: ElevatedButton.styleFrom(backgroundColor: Colors.teal),
