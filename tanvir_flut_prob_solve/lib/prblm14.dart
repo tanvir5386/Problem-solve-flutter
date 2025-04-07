@@ -35,7 +35,7 @@ class _SwipeableListScreenState extends State<SwipeableListScreen> {
       SnackBar(content: Text('Edit pressed on ${items[index]}')),
     );
   }
-
+  //delete items here
   void _deleteItem(int index) {
     setState(() {
       items.removeAt(index);

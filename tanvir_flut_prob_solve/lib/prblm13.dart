@@ -33,6 +33,8 @@ class CustomAppBarScreen extends StatelessWidget {
           children: [
             ClipRRect(
               borderRadius: BorderRadius.circular(8),
+              //istockphoto sec
+              
               child: Image.network(
                 'https://media.istockphoto.com/id/1620926852/photo/white-sneaker-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=CcYj5SYufcuFxUy-l9u1pgDbz62Ty3aD_FaCpqBCaM8=',
                 height: 35,
