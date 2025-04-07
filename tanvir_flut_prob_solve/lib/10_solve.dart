@@ -6,6 +6,7 @@ void main() => runApp(const MaterialApp(home: BottomNavApp()));
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
 
+//image from web
   @override
   Widget build(BuildContext context) {
     final List<Map<String, String>> products = [

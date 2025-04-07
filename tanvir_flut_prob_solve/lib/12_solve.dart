@@ -36,7 +36,7 @@ class ContainerExample extends StatelessWidget {
                 blurRadius: 10,
                 offset: const Offset(4, 4),
               ),
-            ],
+            ],//dec
           ),
           child: const Text(
             "Container!",

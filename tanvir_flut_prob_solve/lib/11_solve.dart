@@ -41,7 +41,7 @@ class ImageFromAssetsScreen extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
-          
+          //Text 
             const Text(
               'Forest View',
               style: TextStyle(
